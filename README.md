@@ -1,4 +1,4 @@
-# Manuscript Title
+# Structural-based connectivity and omic phenotype evaluations (SCOPE): a cheminformatics toolbox for investigating lipidomic changes in complex systems
 
 *Melanie T. Odenkirk, Jeremy Ash, Phyo Phyo Kway Zin, David Reif, Denis Fourches, Erin S. Baker*
 
